@@ -1,1 +1,1 @@
-# repositorio para practica de entonrnos
+# repositorio para práctica de entornos
